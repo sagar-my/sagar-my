@@ -1,15 +1,7 @@
-<!-- HEADER BANNER -->
-<!-- HEADER BANNER -->
+<!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00c6ff,100:0072ff&text=Sagar%20Chaudhary&fontSize=48&fontAlign=50&fontColor=ffffff&animation=twinkling" alt="Sagar Chaudhary Banner"/>
+  <img src="./github-header-banner.png" alt="Header Banner" />
 </p>
-
-<!-- TYPING SUBTITLE -->
-<p align="center">
-  <img src="./typing-banner.gif" alt="Typing Animation" />
-</p>
-
-
 
 
 ---
