@@ -1,6 +1,6 @@
 <!-- CUSTOM HEADER IMAGE -->
 <p align="center">
-  <img src="github-header-banner.png" alt="Sagar Chaudhary Banner"/>
+ ![Header](./your-header-image-name.png)
 </p>
 
 <!-- TYPING SUBTITLE -->
