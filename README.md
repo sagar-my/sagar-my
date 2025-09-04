@@ -8,12 +8,15 @@
 
 <!-- QUICK LINKS / LINKTREE STYLE -->
 <p align="center">
-  <a href="mailto:sagar.chaudhary25008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/sagar-chaudhary-725094237/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-  <a href="https://github.com/sagar-my"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:sagar.chaudhary25008@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=FF4B2B">
+  </a>
+  <a href="https://www.linkedin.com/in/sagar-chaudhary-725094237/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2">
+  </a>
+  <a href="https://github.com/sagar-my" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=333333">
+  </a>
 </p>
 
 <!-- MINI ABOUT -->
