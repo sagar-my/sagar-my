@@ -88,14 +88,6 @@
   - **Contact** — 📧 sagar.chaudhary25008@gmail.com • 📍 Mathura, Uttar Pradesh
 </details>
 
----
-
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-my/sagar-my/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 <!-- FOOTER -->
 <p align="center">
