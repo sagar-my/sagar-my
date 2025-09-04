@@ -1,15 +1,16 @@
 <!-- HEADER BANNER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=QA+Associate+%7C+MCA+Student;Manual+%26+Automation+Testing+(Appium+%26+Cucumber);Java+%7C+Node.js+%7C+Express.js+%7C+MySQL;TailwindCSS+Framework;Building+Reliable+%26+User-Friendly+Software+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00c6ff,100:0072ff&text=Sagar%20Chaudhary&fontSize=48&fontAlign=50&fontColor=ffffff&animation=twinkling" alt="Sagar Chaudhary Banner"/>
 </p>
-
 
 <!-- TYPING SUBTITLE -->
 <p align="center">
-  <a href="https://github.com/sagar-my">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=500&lines=QA+Associate+%7C+MCA+Student;Manual+%2B+Automation+Testing+(Appium%2C+Cucumber);Java+%7C+Node.js+%7C+Express.js+%7C+MySQL;TailwindCSS+Framework;Building+Reliable+%26+User-Friendly+Software+🚀" alt="Typing SVG" />
-  </a>
+  <img src="./typing-banner.gif" alt="Typing Animation" />
 </p>
+
+
+
 
 ---
 
