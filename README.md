@@ -67,6 +67,8 @@ QA Engineer | Automation Tester | Playwright | Appium | API Testing | AI Automat
   <img src="https://img.shields.io/badge/BrowserStack-Cloud%20Testing-FF9900?style=for-the-badge&logo=browserstack&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Jira-Bug%20Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Tested%20on-BrowserStack-FF9900?style=for-the-badge&logo=browserstack&logoColor=white"/>
 </p>
 
 ---
