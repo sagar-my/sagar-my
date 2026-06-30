@@ -304,11 +304,11 @@ Feel free to connect with me!
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagar-my&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <!-- <img width="49%" src="https://streak-stats.demolab.com?user=sagar-my&theme=tokyonight&hide_border=true" /> -->
+  <img width="49%" src="https://streak-stats.demolab.com?user=sagar-my&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-my&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-my&layout=compact&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 <p align="center">
