@@ -323,18 +323,13 @@ Feel free to connect with me!
   <img width="49%" src="https://streak-stats.demolab.com?user=sagar-my&theme=tokyonight&hide_border=true" />
 </p>
 
- <p align="center">
+<p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-my&layout=compact&theme=tokyonight&hide_border=true" />
-</p> 
+</p>
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-my&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagar-my&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
 ## 🏆 Achievements & Certifications
