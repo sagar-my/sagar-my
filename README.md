@@ -316,17 +316,19 @@ Feel free to connect with me!
 
 </p>
 
-## 📊 GitHub
-<h2 align="center">📈 GitHub Dashboard</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagar-my&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-my&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagar-my&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sagar-my&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-my&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagar-my&theme=tokyonight&utcOffset=5.5" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-my&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-my&theme=tokyonight" />
 </p>
 
 <p align="center">
