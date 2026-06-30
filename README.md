@@ -277,22 +277,35 @@ Percentage: **80%**
 
 ---
 
-# 📫 Let's Connect
+<h2 align="center">🌐 Let's Connect & Collaborate</h2>
+
+<p align="center">
+I'm always open to discussing <b>QA Automation</b>, <b>Software Testing</b>, <b>Open Source</b>, and <b>AI in Testing</b>. <br>
+Feel free to connect with me!
+</p>
 
 <p align="center">
 
 <a href="mailto:sagar.chaudhary25008@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/sagar-my">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sagar-chaudhary-725094237">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Sagar%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/sagar-my">
+<img src="https://img.shields.io/badge/GitHub-sagar--my-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sagar-my&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+⭐ <b>If you like my work, consider starring my repositories!</b> ⭐
 </p>
 
 ---
